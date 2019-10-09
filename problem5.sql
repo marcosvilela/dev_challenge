@@ -16,4 +16,5 @@ WHERE product.product_id = table_order.product_id
 	AND table_order.order_date = CURDATE()
 ;
 
+-- STEP 3: TEST QUERY
 
